@@ -1,4 +1,5 @@
 Hello, this is <Họ Tên>.
+Conflict resolved on 02/10/2025
 Tôi là sinh viên ngành CNTT.
 Tôi yêu thích lập trình web và học hỏi công nghệ mới.
 Tôi mong muốn trở thành Fullstack Developer.
