@@ -1,7 +1,7 @@
 # Git Final Exam
 
-**Họ và tên:** VÕ QUỐC KHÁNH  
-**MSSV:** 12345678  
+**Họ và tên:** Phạm Đang Trường 
+**MSSV:** 223167
 **Ngày làm bài:** 2025-10-02  
 
 ## Mục tiêu
