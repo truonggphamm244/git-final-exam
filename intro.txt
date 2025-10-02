@@ -1,4 +1,4 @@
-Xin chào, tôi là <Họ Tên>.
+Hello, this is <Họ Tên>.
 Tôi là sinh viên ngành CNTT.
 Tôi yêu thích lập trình web và học hỏi công nghệ mới.
 Tôi mong muốn trở thành Fullstack Developer.
