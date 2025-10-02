@@ -1,0 +1,3 @@
+- Dễ dàng làm việc nhóm nhờ GitHub.
+- Lệnh Git ban đầu khó nhớ, nhưng rất mạnh mẽ.
+ 
