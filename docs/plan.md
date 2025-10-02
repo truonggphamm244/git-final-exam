@@ -1,7 +1,7 @@
 
-- Thứ 2: Ôn lại Git cơ bản
-- Thứ 3: Thực hành commit, branch
-- Thứ 4: Học merge và conflict
+- Thứ 2: Học Git cơ bản
+- Thứ 3: Thực hành branch và merge
+- Thứ 4: Ôn tập lại nội dung
 - Thứ 5: Làm bài thực hành Git
 - Thứ 6: Tìm hiểu GitHub Actions
 - Thứ 7: Xem lại log, diff, rebase
